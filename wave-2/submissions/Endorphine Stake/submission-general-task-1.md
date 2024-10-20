@@ -13,6 +13,5 @@ The script contains 5 functions:
 - Upgrade node
 - Check versions Geth & Story
 
-
 ## Script in this [repository](https://github.com/endorphinestake/story-protocol/blob/main/auto-install-script.sh)
 
